@@ -1,0 +1,15 @@
+# Secret & Private Files (NEVER UPLOAD TO GITHUB)
+secrets.properties
+local.properties
+.env
+*.jks
+*.keystore
+
+# Build & Gradle Folders
+.gradle/
+build/
+app/build/
+.idea/
+*.iml
+*.apk
+*.aab
